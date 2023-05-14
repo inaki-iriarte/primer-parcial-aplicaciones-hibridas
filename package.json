@@ -1,0 +1,16 @@
+{
+  "name": "primer-parcial-aplicaciones-hibridas",
+  "version": "1.0.0",
+  "description": "Primer parcial, Aplicaciones Híbridas, DWT4AV, Iñaki Iriarte",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "server": "cls && node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "mongodb": "5.5.0"
+  }
+}

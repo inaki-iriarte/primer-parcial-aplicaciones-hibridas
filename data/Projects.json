@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "645ed0479259cbb01b37ce78"
+  },
+  "name": "Maquetado Ámsterdam",
+  "description": "Final para la materia maquetado y desarrollo web, 1er cuatrimestre, escuela Da Vinci",
+  "link": "https://github.com/inaki-iriarte/maquetado-y-desarrollo-final",
+  "img": "https://i.ibb.co/xYMN253/1.jpg",
+  "technologies": [
+    "HTML",
+    "CSS"
+  ],
+  "section": "landing"
+},{
+  "_id": {
+    "$oid": "645eef4a9259cbb01b37ce79"
+  },
+  "name": "Calculadora de impuestos",
+  "description": "Parcial 2 para Aplicaciones Móviles, calculadora de impuestos para compras en moneda extranjera",
+  "link": "https://github.com/inaki-iriarte/parcial-2-aplicaciones-moviles",
+  "img": "https://i.ibb.co/HpqSN9H/3.jpg",
+  "technologies": [
+    "HTML",
+    "JavaScript",
+    "Vue"
+  ],
+  "section": "mobile"
+},{
+  "_id": {
+    "$oid": "645ef01f9259cbb01b37ce7a"
+  },
+  "name": "Landing page Ford Mustang",
+  "description": "TP1 para interacción con dispositivos móviles, landing page responsive",
+  "link": "https://github.com/inaki-iriarte/tp1-interaccion-con-dispositivos-moviles",
+  "img": "https://i.ibb.co/CJvCkc7/2.jpg",
+  "technologies": [
+    "HTML",
+    "CSS"
+  ],
+  "section": "landing"
+},{
+  "_id": {
+    "$oid": "645ef0cf9259cbb01b37ce7b"
+  },
+  "name": "e-Commerce Back to the Roots",
+  "description": "Trabajo final para programación 1, e-commerce de kit de cultivos orgánicos",
+  "link": "https://github.com/inaki-iriarte/final-programacion-1",
+  "img": "https://i.ibb.co/bHsTLys/4.jpg",
+  "technologies": [
+    "HTML",
+    "JavaScript",
+    "CSS"
+  ],
+  "section": "ecommerce"
+},{
+  "_id": {
+    "$oid": "645ef1819259cbb01b37ce7c"
+  },
+  "name": "Aplicación de notas",
+  "description": "Trabajo práctico 2 para aplicaciones web progresivas, aplicación para guardar notas",
+  "link": "https://github.com/inaki-iriarte/tp2-aplicacion-de-notas",
+  "img": "https://i.ibb.co/Yyfjsc5/5.jpg",
+  "technologies": [
+    "HTML",
+    "JavaScript",
+    "CSS"
+  ],
+  "section": "webapp"
+},{
+  "_id": {
+    "$oid": "645ef1f49259cbb01b37ce7d"
+  },
+  "name": "Buscador de pokémon",
+  "description": "Trabajo práctico 1 para aplicaciones web progresivas, buscador de pokémon por nombre a través de una API",
+  "link": "https://github.com/inaki-iriarte/p1-parcial-1-dwt3a-iriarte-inaki",
+  "img": "https://i.ibb.co/59HpG6V/6.jpg",
+  "technologies": [
+    "HTML",
+    "JavaScript",
+    "CSS"
+  ],
+  "section": "webapp"
+},{
+  "_id": {
+    "$oid": "645ef2689259cbb01b37ce7e"
+  },
+  "name": "e-Commerce Coffee Tiger",
+  "description": "Trabajo práctico 2 para programación 2, e-commerce de café de especialidad",
+  "link": "https://github.com/inaki-iriarte/tp2-programacion-2",
+  "img": "https://i.ibb.co/Dkvybw9/7.jpg",
+  "technologies": [
+    "PHP",
+    "CSS"
+  ],
+  "section": "ecommerce"
+},{
+  "_id": {
+    "$oid": "645f135b588bc3293cb51a67"
+  },
+  "name": "Juego de ejemplo",
+  "description": "Proyecto aleatorio por no tener juegos programados",
+  "link": "https://github.com/inaki-iriarte",
+  "img": "https://picsum.photos/400/440",
+  "technologies": [
+    "HTML",
+    "JavaScript"
+  ],
+  "section": "game"
+}]

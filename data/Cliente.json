@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "645fd54d2752f7cfcdf0c2ca"
+  },
+  "name": "Iñaki",
+  "img": "https://picsum.photos/200",
+  "description": "Testeo primer cliente"
+},{
+  "_id": {
+    "$oid": "645fd90f846d09a2d2f358a0"
+  },
+  "name": "Da Vinci",
+  "img": "https://picsum.photos/200",
+  "description": "Escuela Da Vinci, diseño y programación web",
+  "projects_id": [
+    "645ed0479259cbb01b37ce78",
+    "645eef4a9259cbb01b37ce79",
+    "645ef01f9259cbb01b37ce7a",
+    "645ef0cf9259cbb01b37ce7b",
+    "645ef1819259cbb01b37ce7c",
+    "645ef1f49259cbb01b37ce7d",
+    "645ef2689259cbb01b37ce7e"
+  ]
+},{
+  "_id": {
+    "$oid": "645fda5d846d09a2d2f358a3"
+  },
+  "name": "Brian",
+  "img": "https://picsum.photos/200",
+  "description": "Profesor aplicaciones híbridas, escuela Da Vinci",
+  "projects_id": [
+    "645f135b588bc3293cb51a67"
+  ]
+}]
